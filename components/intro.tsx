@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/images/raja.png"
+              src="/images/raja.JPG"
               alt="Esakki Raja"
               width="192"
               height="192"
